@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nicolasnauts.github.io/static/css/main.b315c73d.css",
-    "main.js": "/nicolasnauts.github.io/static/js/main.9f32ed9e.js",
+    "main.js": "/nicolasnauts.github.io/static/js/main.d3945799.js",
     "static/media/me.jpg": "/nicolasnauts.github.io/static/media/me.3a030ce437d362368615.jpg",
     "static/media/me-about.jpg": "/nicolasnauts.github.io/static/media/me-about.2aacfabb4326d8dc7a35.jpg",
     "static/media/Faro.jpg": "/nicolasnauts.github.io/static/media/Faro.0c8a06bc22aa7cb4fcca.jpg",
@@ -14,10 +14,10 @@
     "static/media/av2.jpg": "/nicolasnauts.github.io/static/media/av2.254f981fd1f610069afc.jpg",
     "index.html": "/nicolasnauts.github.io/index.html",
     "main.b315c73d.css.map": "/nicolasnauts.github.io/static/css/main.b315c73d.css.map",
-    "main.9f32ed9e.js.map": "/nicolasnauts.github.io/static/js/main.9f32ed9e.js.map"
+    "main.d3945799.js.map": "/nicolasnauts.github.io/static/js/main.d3945799.js.map"
   },
   "entrypoints": [
     "static/css/main.b315c73d.css",
-    "static/js/main.9f32ed9e.js"
+    "static/js/main.d3945799.js"
   ]
 }
