@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SaYiiTo21/nicolasnauts.github.io/static/css/main.b315c73d.css",
+    "main.js": "/SaYiiTo21/nicolasnauts.github.io/static/js/main.db8b0286.js",
+    "static/media/me.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/me.3a030ce437d362368615.jpg",
+    "static/media/me-about.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/me-about.2aacfabb4326d8dc7a35.jpg",
+    "static/media/Faro.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/Faro.0c8a06bc22aa7cb4fcca.jpg",
+    "static/media/Italia.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/Italia.40d3f56f6a12cdffe889.jpg",
+    "static/media/Kharkiv.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/Kharkiv.26a802d5f216ce81d81e.jpg",
+    "static/media/Seychelle.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/Seychelle.6e091b06315f952dff6d.jpg",
+    "static/media/av3.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/av3.3ff4a6fdd9374ecdc0f5.jpg",
+    "static/media/av4.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/av4.3dd4020a1067e3f61235.jpg",
+    "static/media/av1.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/av1.26acb6294367ee6a7076.jpg",
+    "static/media/av2.jpg": "/SaYiiTo21/nicolasnauts.github.io/static/media/av2.254f981fd1f610069afc.jpg",
+    "index.html": "/SaYiiTo21/nicolasnauts.github.io/index.html",
+    "main.b315c73d.css.map": "/SaYiiTo21/nicolasnauts.github.io/static/css/main.b315c73d.css.map",
+    "main.db8b0286.js.map": "/SaYiiTo21/nicolasnauts.github.io/static/js/main.db8b0286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b315c73d.css",
+    "static/js/main.db8b0286.js"
+  ]
+}
